@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/alkawkbah/static/css/main.e6c13ad2.css",
+    "main.js": "/alkawkbah/static/js/main.c8ef9f5c.js",
+    "static/js/453.1c25b7fd.chunk.js": "/alkawkbah/static/js/453.1c25b7fd.chunk.js",
+    "static/media/AMJAD.jpg": "/alkawkbah/static/media/AMJAD.e230cb062cebb79131b4.jpg",
+    "static/media/MO3TH.jpg": "/alkawkbah/static/media/MO3TH.c56cb2613665f93a4942.jpg",
+    "index.html": "/alkawkbah/index.html",
+    "main.e6c13ad2.css.map": "/alkawkbah/static/css/main.e6c13ad2.css.map",
+    "main.c8ef9f5c.js.map": "/alkawkbah/static/js/main.c8ef9f5c.js.map",
+    "453.1c25b7fd.chunk.js.map": "/alkawkbah/static/js/453.1c25b7fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c8ef9f5c.js"
+  ]
+}
